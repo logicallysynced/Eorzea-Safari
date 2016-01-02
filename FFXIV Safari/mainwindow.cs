@@ -121,7 +121,7 @@ namespace FFXIV_Safari
                 DialogResult result = MessageBox.Show("There is an updated version of Eorzea Safari. Would you like to download it now?", "New Version", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (result == DialogResult.Yes)
                 {
-                    System.Diagnostics.Process.Start("http://www.google.com");
+                    System.Diagnostics.Process.Start("https://github.com/roxaskeyheart/Eorzea-Safari/releases");
                 }
             }
 
