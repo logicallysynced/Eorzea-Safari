@@ -30,6 +30,7 @@ Eorzea Safari is a lightweight hunt tracking overlay for Final Fantasy XIV. It p
 1. Download the [latest version](https://github.com/roxaskeyheart/Eorzea-Safari/releases) of Eorzea Safari.
 2. Unzip the contents of EorzeaSafari.zip to your computer.
 3. Run Eorzea Safari.exe
+4. If a security notification appears, you'll have select 'Run Anyways' for the first time you run the app.
 
 
 ##Configuration
