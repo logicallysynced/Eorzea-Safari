@@ -9,7 +9,7 @@ Eorzea Safari is a lightweight hunt tracking overlay for Final Fantasy XIV. It p
 
 ***Important Note: While Eorzea Safari displays hunt window information, it does not report when an elite mark has spawned. Therefore it is recommended you run an application like [Guildwork](http://guildwork.com/client) in tandem with Eorzea Safari.***
 
-***Eorzea Safari requires you to be running the game in either Windowed of Borderless Window mode to overlay correctly. It will not overlay in full screen mode***
+*Eorzea Safari requires you to be running the game in either Windowed of Borderless Window mode to overlay correctly. It will not overlay in full screen mode*
 
 
 ##Features
