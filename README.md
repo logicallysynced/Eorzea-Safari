@@ -53,8 +53,14 @@ A: On the main display, click the red dot in the top-right hand corner to close 
 A: No, you can only use Eorzea Safari with Windowed and Borderless Window display modes. However if you have a second monitor, you can place the Eorzea Safari window onto that display.
 
 
+**Q: I think the data may be wrong for X elite mark. How can i fix this?**
+
+A: Please report incorrect hunt data being displayed [here](https://github.com/roxaskeyheart/Eorzea-Safari/issues) so I can fix this ASAP.
+
+
 ##Known Issues
 
+* Potential incorrect data being displayed for various marks - [please report](https://github.com/roxaskeyheart/Eorzea-Safari/issues)!
 * An issue in when special conditions are met in the open timer, the app may crash.
 * An issue in when the source data is unavailable, the app may crash or display data incorrectly.
 
