@@ -21,6 +21,8 @@ namespace FFXIV_Safari
             chk_transparent.Checked = FFXIV_Safari.Properties.Settings.Default.checktransparent;
             cb_server.SelectedItem = FFXIV_Safari.Properties.Settings.Default.serverselect;
             nm_interval.Value = FFXIV_Safari.Properties.Settings.Default.nm_interval;
+            btn_backCol.BackColor = System.Drawing.ColorTranslator.FromHtml(FFXIV_Safari.Properties.Settings.Default.cd_backcol);
+            btn_backCol.ForeColor = System.Drawing.ColorTranslator.FromHtml(FFXIV_Safari.Properties.Settings.Default.cd_backcol);
         }
 
         private void btn_save_Click(object sender, EventArgs e)

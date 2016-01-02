@@ -251,26 +251,18 @@ namespace FFXIV_Safari
                             double outputD = Convert.ToDouble(time[1]);
                             string timestampA;
                             string timestampB;
-
-                            if (outputC.ToString().Length == 1)
-                            {
-                                timestampA = "0" + outputC.ToString();
-                            }
-                            else
-                            {
-                                timestampA = outputC.ToString();
-                            }
+                            timestampA = outputC.ToString();
 
                             if (outputD.ToString().Length == 1)
                             {
-                                timestampB = outputD.ToString() + "0";
+                                timestampB = "0" + outputD.ToString();
                             }
                             else
                             {
                                 timestampB = outputD.ToString();
                             }
-                            outputB = timestampA + ":" + timestampB;
 
+                            outputB = timestampA + ":" + timestampB;
                             ts = TimeSpan.FromHours(outputC) + TimeSpan.FromMinutes(outputD);
                         }
 
@@ -370,19 +362,12 @@ namespace FFXIV_Safari
                             double outputD = Convert.ToDouble(time[1]);
                             string timestampA;
                             string timestampB;
-
-                            if (outputC.ToString().Length == 1)
-                            {
-                                timestampA = "0" + outputC.ToString();
-                            }
-                            else
-                            {
-                                timestampA = outputC.ToString();
-                            }
+                            timestampA = outputC.ToString();
+                            Console.WriteLine(outputC+":"+ outputD);
 
                             if (outputD.ToString().Length == 1)
                             {
-                                timestampB = outputD.ToString() + "0";
+                                timestampB = "0" + outputD.ToString();
                             }
                             else
                             {
