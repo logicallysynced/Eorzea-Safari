@@ -1,4 +1,6 @@
-**Eorzea Safari - Hunts Overlay for FFXIV**
+![Chromatics Logo](http://thejourneynetwork.net/eorzeasafari/eorzeasafari_black_md.png)
+
+**Hunts Overlay for Final Fantasy XIV**
 
 Eorzea Safari is a lightweight hunt tracking overlay for Final Fantasy XIV. It provides data on open elite marks in an easy-to-read display which overlays the game window.
 
